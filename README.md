@@ -1,5 +1,6 @@
 # makeDeb
-a .deb skeleton
+
+Skeleton pour faire un paquet deb
 
 # Compilation du paquet:
 ```$ sudo dpkg-deb --build nom_du_paquet```
