@@ -12,5 +12,6 @@ a .deb skeleton
 
 
 
-# Resource: 
+### Resource: 
 - http://sdz.tdct.org/sdz/creer-un-paquet-deb.html
+- https://alp.developpez.com/tutoriels/debian/creer-paquet/
