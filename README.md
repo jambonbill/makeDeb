@@ -9,3 +9,8 @@ a .deb skeleton
 
 # Desinstallation du paquet:
 ```$ sudo apt-get remove nom_du_paquet```
+
+
+
+# Resource: 
+- http://sdz.tdct.org/sdz/creer-un-paquet-deb.html
