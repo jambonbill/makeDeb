@@ -1,0 +1,9 @@
+Package: nom-du-package
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Depends: bash
+Maintainer: example <example@example.com>
+Description: description du paquet ici
+Homepage: https://www.example.com
