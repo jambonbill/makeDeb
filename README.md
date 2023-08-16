@@ -13,6 +13,6 @@ Skeleton pour faire un paquet 'deb', avec la commande dpkg-deb
 
 
 
-### Resource: 
+### Ressources: 
 - http://sdz.tdct.org/sdz/creer-un-paquet-deb.html
 - https://alp.developpez.com/tutoriels/debian/creer-paquet/
