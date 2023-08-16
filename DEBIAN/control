@@ -1,9 +1,9 @@
 Package: cdatest-package
-Version: 1.1
+Version: 1.2
 Section: base
 Priority: optional
 Architecture: all
 Depends: bash
-Maintainer: example <example@example.com>
+Maintainer: jambonbill <jambonbill@gmail.com>
 Description: Package pour illustrer le fonctionnement des paquets deb
 Homepage: https://github.com/jambonbill/makeDeb
