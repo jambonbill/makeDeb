@@ -2,3 +2,4 @@
 
 #exécuté AVANT l'installation
 echo preinst
+exit 0
