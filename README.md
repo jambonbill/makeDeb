@@ -1,0 +1,2 @@
+# makeDeb
+a .deb skeleton
