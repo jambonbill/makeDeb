@@ -1,0 +1,10 @@
+#!/bin/bash
+
+clear
+
+echo Formatage en cours...
+
+sleep 3
+
+echo LOL
+

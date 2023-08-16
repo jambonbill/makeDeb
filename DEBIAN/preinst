@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#exécuté AVANT l'installation
+
+echo Je suis bien installe, je m'utilise comme ca: ...

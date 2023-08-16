@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#exécuté APRES la desinstallation
+
+echo Je suis bien desinstalle. Adieu

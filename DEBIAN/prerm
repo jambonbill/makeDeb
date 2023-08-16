@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#exécuté AVANT la desinstallation
+
+echo Je suis sur le point d'etre desinstalle
+
