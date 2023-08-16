@@ -1,4 +1,4 @@
-# makeDeb
+# cdatest-package
 
 Skeleton pour faire un paquet 'deb', avec la commande dpkg-deb
 
