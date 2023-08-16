@@ -2,3 +2,4 @@
 
 #exécuté APRES la desinstallation
 echo postrm
+exit 0
