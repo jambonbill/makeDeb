@@ -2,3 +2,4 @@
 
 #exécuté APRES l'installation
 echo postinst
+exit 0
