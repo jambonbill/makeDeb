@@ -5,5 +5,5 @@ Priority: optional
 Architecture: all
 Depends: bash
 Maintainer: example <example@example.com>
-Description: description du paquet ici
-Homepage: https://www.example.com
+Description: Package pour illustrer le fonctionnement des paquets deb
+Homepage: https://github.com/jambonbill/makeDeb
