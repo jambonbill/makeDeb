@@ -1,4 +1,4 @@
 #!/bin/bash
 
 #exécuté APRES l'installation
-echo Usage: ./cdatest
+echo postinst
