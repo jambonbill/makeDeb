@@ -9,6 +9,8 @@ Skeleton pour faire un paquet 'deb', avec la commande dpkg-deb
 ```$ sudo dpkg -i nom_du_paquet.deb```
 
 # Desinstallation du paquet:
+```$ sudo dpkg -r nom_du_paquet```
+ou 
 ```$ sudo apt-get remove nom_du_paquet```
 
 
